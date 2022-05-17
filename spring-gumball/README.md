@@ -1,1 +1,14 @@
 # spring-gumball ci/cd example
+
+![Screenshot (207)](https://user-images.githubusercontent.com/60455498/168747543-aa2e3639-cca8-41a9-9c83-2c02a2cfa492.png)
+![Screenshot (208)](https://user-images.githubusercontent.com/60455498/168747550-7bd36c0d-50a1-4f5f-9919-d8ee276a06cc.png)
+![Screenshot (209)](https://user-images.githubusercontent.com/60455498/168747554-5ad44778-a546-4bc8-9a4a-4beea6242ed3.png)
+![Screenshot (210)](https://user-images.githubusercontent.com/60455498/168747558-06dd4b41-67d3-49ec-806a-81046a400e0d.png)
+![Screenshot (211)](https://user-images.githubusercontent.com/60455498/168747560-750cfe5e-08ea-472b-8df4-d5b5c2feac8c.png)
+![Screenshot (212)](https://user-images.githubusercontent.com/60455498/168747563-11895080-6afb-417d-82fb-6ae5384a780f.png)
+![Screenshot (213)](https://user-images.githubusercontent.com/60455498/168747566-29b220c1-3346-4a88-bc5c-7a6eab743c31.png)
+![Screenshot (202)](https://user-images.githubusercontent.com/60455498/168747569-ea1d4833-0a38-4f16-9e78-5554e78b226c.png)
+![Screenshot (203)](https://user-images.githubusercontent.com/60455498/168747614-35e97f86-53d8-491d-98ef-bb1f07a23d8d.png)
+![Screenshot (204)](https://user-images.githubusercontent.com/60455498/168747624-3b2dc3fb-2481-4bd1-ba51-6968f7cc251a.png)
+![Screenshot (205)](https://user-images.githubusercontent.com/60455498/168747630-a906c59b-1328-4c37-a6fa-b60f4a48ea13.png)
+![Screenshot (206)](https://user-images.githubusercontent.com/60455498/168747636-b4ae61b0-fd44-4a7f-a5ae-445d84c92aea.png)
